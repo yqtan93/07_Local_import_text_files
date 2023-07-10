@@ -1,0 +1,1 @@
+['$2000.0 was added to the account. Current balance on the acc is $3075.0.', '20 unit of shirt was purchased. $200.0 was spent.', '20 unit of short was purchased. $100.0 was spent.', '3 unit of short was sold. $30.0 amount was earned.', '5 unit of shirt was sold. $100.0 amount was earned.', '10 unit of tie was purchased. $40.0 was spent.']
